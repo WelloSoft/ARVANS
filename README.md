@@ -6,6 +6,9 @@ Tidak seperti Antivirus lainnya, ARVANS tidak mempunyai fitur Scan ataupun Updat
 
 ---
 
+# Cara penggunaan
+[https://github.com/WelloSoft/ARVANS/raw/build/ARVANS.exe](Download aplikasinya) melalui Branch Build di repository ini, lalu buka aplikasinya untuk memulainya secara langsung. Versi saat ini adalah versi Portable, sehingga tidak butuh install kedalam program sistem.
+
 # Fungsi Utama ARVANS
 ### Pindai Aplikasi yang mempunyai Ciri-ciri yang Mencurigakan
 Ciri-ciri Aplikasi yang akan dideteksi oleh ANVANS diantaranya:
@@ -22,8 +25,6 @@ Hal-hal yang akan dilakukan ARVANS ketika Device External dimasukkan :
 
 ---
 
-# Cara penggunaan
-Download aplikasinya melalui Branch Build di repository ini, lalu buka aplikasinya untuk memulainya secara langsung.
 
 # Rencana Kedepan
 ARVANS akan direncanakan untuk selalu dikembangkan hingga mencapai beberapa target berikut:
